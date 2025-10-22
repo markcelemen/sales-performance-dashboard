@@ -1,0 +1,30 @@
+Field Name,Brief Description
+Row Id,Unique identifier for each row in the dataset
+Order Id,Unique identifier for each order
+Order Date,Date when the order was placed
+Ship Date,Date when the order was shipped
+Ship Mode,Shipping method chosen for the order
+Customer Id,Unique identifier for each customer
+Customer Name,Full name of the customer
+Segment,"Customer segment type (Consumer, Corporate, Home Office)"
+Country,Country of the customer
+City,City of the customer
+State,State of the customer
+Postal Code,Postal code of the customer's address
+Region,Region of the customer
+Product Id,Unique identifier for each product
+Category,"Product category (e.g., Furniture, Technology, Office Supplies)"
+Sub Category,"Product sub-category (e.g., Chairs, Phones)"
+Product Name,Name of the product
+Sales,Revenue generated from the product in the order
+Quantity,Number of units ordered
+Discount,Discount applied to the order (0-1 scale)
+Profit,Profit earned from the order
+Profit Margin,Profit divided by sales
+Discounted Sales,Sales amount after discount applied
+Order Year,Year when the order was placed
+Order Month,Month when the order was placed
+Order Day,Day when the order was placed
+Ship Year,Year when the order was shipped
+Ship Month,Month when the order was shipped
+Ship Day,Day when the order was shipped
