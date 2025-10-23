@@ -1,5 +1,4 @@
 Field Name,Brief Description
-Row Id,Unique identifier for each row in the dataset
 Order Id,Unique identifier for each order
 Order Date,Date when the order was placed
 Ship Date,Date when the order was shipped
