@@ -1,4 +1,5 @@
 Field Name,Brief Description
+Row ID,Unique identifier for each row
 Order Id,Unique identifier for each order
 Order Date,Date when the order was placed
 Ship Date,Date when the order was shipped
