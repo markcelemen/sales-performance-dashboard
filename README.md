@@ -27,7 +27,7 @@ The goal is to empower business stakeholders to make **data-informed decisions**
 
 **Source:** [Tableau Public Sample Dataset](https://public.tableau.com/app/learn/sample-data)  
 **Records:** 9,994  
-**Features:** 29 columns  
+**Features:** 21 columns (29 after data cleaning and processing)
 **Data Type:** Sales transactions with geographic, product, customer, and order information
 
 ### **Key Attributes:**
