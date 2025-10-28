@@ -2,6 +2,8 @@
 
 ### *Data-Driven Insights for Smarter Business Decisions*
 
+![Dashboard Snapshot](dashboard.png)  
+
 ---
 
 ## **Project Overview** 🌍
