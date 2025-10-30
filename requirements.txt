@@ -1,0 +1,9 @@
+pandas==2.3.2
+numpy==2.3.4
+matplotlib==3.10.7
+seaborn==0.13.2
+mysql-connector-python==9.4.0
+jupyter==7.4.7
+notebook==7.4.7
+ipython==9.6.0
+ipykernel>=6.0
