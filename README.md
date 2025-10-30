@@ -50,7 +50,7 @@ This project seeks to answer key business questions such as:
 * Which **customer segments and regions** are the most profitable?
 * How do **discounts** affect overall profitability?
 * What are the **top-performing products and categories**?
-* How do **shipping methods and lead times** impact customer satisfaction?
+* How do **shipping methods and lead times** impact sales?
 
 ---
 
@@ -91,25 +91,25 @@ This project seeks to answer key business questions such as:
 * **Demographic Distribution:** Identify high-performing regions and states.
 * **Segment Performance:** Measure sales, profit, and order quantity by segment.
 * **Geographic Insights:** Compare profitability across locations.
-* **Purchase Patterns:** Track order frequency, preferred products, and profit trends.
+* **Purchase Patterns:** Track order frequency, preferred products, and average sales trends.
 
-### **2. Sales Analysis** 💰
-
-* **Overall Performance:** Analyze revenue, profit, and quantity over time.
-* **Profitability:** Determine high-margin products and categories.
-* **Discount Impact:** Measure how pricing strategies affect profit.
-
-### **3. Product Analysis** 📦
+### **2. Product Analysis** 📦
 
 * **Top Products:** Rank by revenue and quantity sold.
-* **Category Performance:** Evaluate sales by category and sub-category.
+* **Category Performance:** Evaluate sales and units sold by category and sub-category.
 * **Product Trends:** Identify seasonal fluctuations and demand peaks.
+
+### **3. Sales Analysis** 💰
+
+* **Overall Performance:** Analyze revenue, profit, and quantity over time.
+* **Profitability:** Determine high-margin product categories and sub-categories.
+* **Discount Impact:** Measure how pricing strategies affect revenue and profit.
 
 ### **4. Orders & Shipping Analysis** 🚚
 
 * **Order Volume:** Assess business growth over months and years.
 * **Shipping Mode Performance:** Compare modes by sales, profit, and delivery efficiency.
-* **Lead Time Analysis:** Evaluate order-to-ship duration and its impact on satisfaction.
+* **Lead Time Analysis:** Evaluate order-to-ship duration and its impact on sales and profit.
 
 ---
 
