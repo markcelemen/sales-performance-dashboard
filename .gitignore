@@ -1,5 +1,4 @@
 .ipynb_checkpoints
-
-# temporary
-customer_shopping_data_messy.csv
-cleaning_messy_dataset.ipynb
+data_dictionary.csv
+superstore_sales.csv
+superstore_sales.sql
