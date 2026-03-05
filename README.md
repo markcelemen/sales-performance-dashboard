@@ -164,7 +164,6 @@ jupyter notebook
 
 * **Predictive Analytics:** Forecast future sales using time-series models.
 * **Customer Segmentation:** Apply clustering algorithms (e.g., K-Means) for marketing strategies.
-* **Real-Time Dashboard:** Integrate live data updates using SQL triggers or APIs.
 * **KPI Automation:** Auto-refresh Tableau dashboards via scheduled data extracts.
 * **Advanced BI Integration:** Connect Power BI or Looker for enterprise-level reporting.
 
